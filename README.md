@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silexi
+- 👋 Hi, I’m @silexi and my name is Bartu,
 - 👀 I’m interested in Python projects.
 - 🌱 I’m currently learning AutoIT language.
 - 💞️ I’m looking to collaborate on cyber security projects.
